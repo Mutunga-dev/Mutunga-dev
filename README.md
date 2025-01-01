@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mutunga-dev
-- 👀 I’m interested in Software Development and Data Analysis
+- 👀 I’m a Commerce student interested in Software Development and Data Analysis
 - 🌱 I’m currently learning Python, Javascript and SQL
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me mutunga32@gmail.com
